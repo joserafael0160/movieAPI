@@ -15,7 +15,7 @@ Content-Type: application/json
   "title": "The Godfather",
   "year": 1975,
   "director": "Francis Ford Coppola",
-  "duration": "175",
+  "duration": 175,
   "poster": "https://i.etsystatic.com/35681979/r/il/dfe3ba/3957859451/il_fullxfull.3957859451_h27r.jpg",
   "genre": [
     "Crime",
